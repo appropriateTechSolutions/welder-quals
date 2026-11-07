@@ -1,0 +1,1 @@
+import{j as e}from"./index-C0jwgG13.js";import{h as m}from"./App-mylH2cxl.js";function s({text:t,size:n="md",className:a}){return e.jsx("span",{className:m("font-mono font-medium tabular-nums tracking-[-0.01em] text-ink",n==="xl"?"break-words text-[clamp(14px,1.6vw,17px)] leading-[1.45]":"text-[12px]",a),children:t??"—"})}export{s as D};

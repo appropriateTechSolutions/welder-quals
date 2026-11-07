@@ -1,1 +1,0 @@
-import{j as t}from"./index-DHwiTiOT.js";import{a as i}from"./App-CSkMF-PN.js";function n({iso:e,timeZone:s,sentence:a}){return t.jsxs("div",{className:"min-w-0",children:[t.jsx("div",{className:"whitespace-nowrap font-mono text-[12px] tabular-nums text-ink",children:i(e,s)}),a?t.jsx("div",{className:"text-[12px] leading-4 text-muted",children:a}):null]})}export{n as D};
