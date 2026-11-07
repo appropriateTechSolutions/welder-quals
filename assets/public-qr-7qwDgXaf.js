@@ -1,0 +1,1 @@
+import{r as t}from"./index-DHwiTiOT.js";import{R as r}from"./App-CSkMF-PN.js";import"./supabase-BF46IvSr.js";function i(){return t.createElement(r,{title:"Qualification record",stage:"2"})}export{i as Component};

@@ -1,0 +1,1 @@
+import{r as t}from"./index-DHwiTiOT.js";import{R as e}from"./App-CSkMF-PN.js";import"./supabase-BF46IvSr.js";function n(){return t.createElement(e,{title:"Profile and signature",stage:"3a"})}export{n as Component};
