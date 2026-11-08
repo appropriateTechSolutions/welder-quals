@@ -1,0 +1,1 @@
+import{j as e}from"./index-ylmoiwNd.js";import{D as r,l as i}from"./App-oDFTJDXa.js";function x({tone:s,children:t,className:a}){return e.jsxs("span",{className:i("inline-flex items-center gap-1.5 whitespace-nowrap text-[12px] text-secondary",a),children:[s!==void 0&&e.jsx(r,{tone:s}),t]})}export{x as T};

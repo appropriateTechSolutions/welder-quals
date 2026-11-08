@@ -1,0 +1,1 @@
+const r="Enter an email address, like name@company.com.",a=/^[^\s@]+@[^\s@]+\.[^\s@]+$/;function c(s){return s.length<=254&&a.test(s)}function i(s){const n=new Set,e=[];for(const o of s.split(/[,;\n]/)){const t=o.trim();t===""||n.has(t.toLowerCase())||(n.add(t.toLowerCase()),e.push(t))}return e}export{r as E,i as a,c as i};

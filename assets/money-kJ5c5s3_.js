@@ -1,0 +1,1 @@
+const r={AUD:"A$"},c=t=>String(t).replace(/\B(?=(\d{3})+(?!\d))/g,",");function g(t,s="AUD"){const n=Math.round(Math.abs(t)*100),o=Math.floor(n/100),a=String(n%100).padStart(2,"0"),i=o>=1e4?c(o):String(o);return`${t<0&&n>0?"-":""}${r[s]??`${s} `}${i}.${a}`}export{g as f};

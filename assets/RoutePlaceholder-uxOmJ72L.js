@@ -1,1 +1,0 @@
-import{j as t}from"./index-C0jwgG13.js";function i({title:e,stage:s}){return t.jsxs("section",{children:[t.jsx("h1",{className:"font-display text-2xl tracking-tight text-ink md:text-[32px] md:leading-10",children:e}),t.jsx("p",{className:"mt-2 font-mono text-xs text-muted",children:`Arrives in stage ${s}.`})]})}export{i as R};

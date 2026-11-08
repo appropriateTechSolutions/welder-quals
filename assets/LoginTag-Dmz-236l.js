@@ -1,0 +1,1 @@
+import{j as n}from"./index-ylmoiwNd.js";import{H as s}from"./App-oDFTJDXa.js";import{T as i}from"./Tag-djsXxawr.js";function p({state:r}){const{text:t,tone:o}=s(r);return n.jsx(i,{...o===null?{}:{tone:o},children:t})}export{p as L};
